@@ -29,3 +29,17 @@ Kuniga 2 ta: ertalab «fakt» (🧠), kechqurun «hack» (💡). Izoh — `capti
 | 14 | `fakt-014` — YUNESKO: Navro‘z, palov, Shashmaqom | `hack-014` — Windows: Win+., Ctrl+Shift+Esc, Win+D |
 
 Keyingi hafta mavzulari va qoidalar: Sharpa repodagi `promo/fakt/PLAN.md`.
+
+## 🎬 «Vaqt zinasi» — 5 qismli animatsion seriya
+
+Kuniga 1 qism (21:00), 5 kun. Fayllar: `reels/zina-1…5.mp4` (+ `.jpg` muqova), izohlar — `captions.json` (`zina-1…5`).
+Yasalishi: [Sharpa](https://github.com/ortigaliyev7/Sharpa) repodagi `promo/vaqt-zinasi/`.
+
+| Qism | Nom |
+|---|---|
+| 1 | Xronopolis |
+| 2 | Izquvar |
+| 3 | Tishli g‘ildiraklar |
+| 4 | Qaror |
+| 5 | Xotima (OXIRI?) |
+
